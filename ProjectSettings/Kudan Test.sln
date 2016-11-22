@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8F3F3A7A-9839-A62C-BFDD-6A7EE3D5E091}") = "Kudan Test", "Assembly-CSharp.csproj", "{7711AA3B-9017-EDC8-C203-5827F90035A7}"
+EndProject
+Project("{8F3F3A7A-9839-A62C-BFDD-6A7EE3D5E091}") = "Kudan Test", "Assembly-CSharp-Editor.csproj", "{3C92D411-03BE-8B61-1CFE-0554064041CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7711AA3B-9017-EDC8-C203-5827F90035A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7711AA3B-9017-EDC8-C203-5827F90035A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7711AA3B-9017-EDC8-C203-5827F90035A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7711AA3B-9017-EDC8-C203-5827F90035A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C92D411-03BE-8B61-1CFE-0554064041CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C92D411-03BE-8B61-1CFE-0554064041CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C92D411-03BE-8B61-1CFE-0554064041CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C92D411-03BE-8B61-1CFE-0554064041CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
